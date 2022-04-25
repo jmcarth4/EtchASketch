@@ -2,7 +2,7 @@
 'RCET0265   
 'Spring 2020
 'EtchASketch 
-'
+'https://github.com/jmcarth4/EtchASketch.git
 
 Imports System.Math
 Public Class EtchASketch
