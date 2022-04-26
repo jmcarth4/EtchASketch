@@ -46,8 +46,6 @@ Public Class EtchASketch
                 Sketch(oldX, oldY, e.X, e.Y)
             Case "Middle"
                 PicKPenColor()
-            Case "Right"
-                ContextMenuStrip1.Show()
 
         End Select
 
